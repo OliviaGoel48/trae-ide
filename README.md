@@ -1,0 +1,3 @@
+# Trae Ide
+
+Windows reference.
